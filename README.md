@@ -24,7 +24,9 @@ This code generates a stock portfolio that maximizes the Sharpe Ratio (((RoR of 
 
 To see how the process works on a mathematical basis, please see (Source 1) and (Source 2): we are essentially doing that for all of the stocks in the modern-day S&P500.
 
-**When editing, ONLY change the time of the _start_date_ and _end_date_.**
+**To Use, Scroll Down to the Bottom of the *main.py* Code, and Change start_date and end_date Variables**
+
+**When editing, ONLY change the time of the start_date and end_date**
 
 Files will appear after the code is done called "ouput" in the downloaded folder. 
 
