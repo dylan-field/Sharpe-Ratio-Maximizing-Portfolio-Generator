@@ -1,0 +1,5 @@
+Requirements:
+- Software to Use: VS Code
+- Software Version: Python 3.12.4
+  - Access: Ctrl+P > >python: Select interpreter
+- Microsoft Excel 
