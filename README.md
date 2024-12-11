@@ -20,6 +20,8 @@ Updates
 --------------------------------------------------------------------------------------------------------------------------------
 **Info & How to Use:**
 
+Video Guide: https://youtu.be/w_hUopV9S4I
+
 This code generates a stock portfolio that maximizes the Sharpe Ratio (((RoR of Portfolio) - (RoR of Risk-Free Asset))/Risk of Portfolio) based upon a specific time range. 
 
 To see how the process works on a mathematical basis, please see (Source 1) and (Source 2): we are essentially doing that for all of the stocks in the modern-day S&P500.
