@@ -1,7 +1,7 @@
-
-#______________plugins to import/install________________#
-
-
+#TYPE "PIP INSTALL ______" all packages here, on the terminal on VS Studio:
+#The terminal is on the bottom part of the VS Studio Screen
+#https://www.youtube.com/watch?v=ThU13tikHQw&ab_channel=AdityaThakur
+#Use that URL if you're still Struggling
 
 import yfinance as yf
 import pandas as pd
